@@ -1,4 +1,4 @@
-# Bot-
+# Bot-speech polish recognition
 #Polish speech recognition and processing to text
 
 #Need library
